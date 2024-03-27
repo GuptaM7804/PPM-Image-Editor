@@ -1,1 +1,1 @@
-# PPM-Image-Editor
+# PPM-Image-Processor
